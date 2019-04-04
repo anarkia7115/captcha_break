@@ -1,0 +1,7 @@
+captcha
+tensorflow
+keras
+jupyter
+opencv-python
+Pillow
+matplotlib
